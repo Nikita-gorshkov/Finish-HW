@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\bin\Debug\net6.0\HW_final.exe
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\bin\Debug\net6.0\HW_final.deps.json
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\bin\Debug\net6.0\HW_final.runtimeconfig.json
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\bin\Debug\net6.0\HW_final.dll
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\bin\Debug\net6.0\HW_final.pdb
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.dll
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\refint\HW_final.dll
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.pdb
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\HW_final.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ\ПРОДАКТ\Пакет Разработчик\C#\Final HW\Finish-HW\HW_final\obj\Debug\net6.0\ref\HW_final.dll
